@@ -1,0 +1,18 @@
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid
+
+# Ignorar arquivo gerado de endereço
+endereco.json
+
+#
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
